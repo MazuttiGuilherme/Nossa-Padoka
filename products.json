@@ -19,14 +19,14 @@
           "price": 50.9
         },
         {
-          "id": "6218ede7a3e30e98a1240219",
+          "id": "624e1d8fa056d054d0c38cae",
           "name": "Café-Vienense",
           "image": "assets/images/brunch.jpg",
           "description": "Café, leite, chá, chocolate, sucos, presunto, ovos, queijo, manteiga, geléia, pães e bolo.",
           "price": 50.9
         },
         {
-          "id": "6218ede7a3e30e98a1240219",
+          "id": "624e1dbb5170bc79c25a6251",
           "name": "Café-Paris",
           "image": "assets/images/coffe-break.png",
           "description": "Pães, bolo, queijos, presunto, frutas, croissants, suco, café e leite.",
@@ -109,14 +109,14 @@
           "price": 6.9
         },
         {
-          "id": "6218ec07299b5260c423e0b4",
+          "id": "624e1dee43f5babfeb6baa29",
           "name": "Kibe",
           "image": "assets/images/kibe.jpg",
           "description": "O verdadeiro quibe-árabe com tempero tradicional e hortelã. Uma delícia...",
           "price": 6.9
         },
         {
-          "id": "6218ec07299b5260c423e0b4",
+          "id": "624e1dda1cb056daa72397fc",
           "name": "Empadinha",
           "image": "assets/images/empadinha.jpg",
           "description": "Vários sabores a sua escolha, crocante e macia é de dar água na boca...",
